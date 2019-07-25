@@ -1,7 +1,8 @@
 # Roboclub AMU
 [![CircleCI](https://img.shields.io/circleci/project/github/open-roboclub/roboclub-amu.svg)](https://circleci.com/gh/open-roboclub/roboclub-amu)
 [![Codacy grade](https://img.shields.io/codacy/grade/3ef2fba658914b3ca3bc812cfc3dd935.svg)](https://www.codacy.com/app/iamareebjamal/roboclub-amu?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=open-roboclub/roboclub-amu&amp;utm_campaign=Badge_Grade)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fopen-roboclub%2Froboclub-android.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fopen-roboclub%2Froboclub-android?ref=badge_shield)
+ 
 > AMU RoboClub Notification and Club Intro Android App  
 
 ![](https://s28.postimg.org/b0gbd3ll9/ic_web.png)  
@@ -41,3 +42,7 @@ App provides following features :
 ### Developers
 [@iamareebjamal](https://github.com/iamareebjamal)  
 [@divs4debu](https://github.com/divs4debu)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fopen-roboclub%2Froboclub-android.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fopen-roboclub%2Froboclub-android?ref=badge_large)
